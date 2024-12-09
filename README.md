@@ -85,3 +85,5 @@ To run the Vending Machine system, follow these steps:
 <img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/8f69364c-6e40-4fc9-9dc8-508a96fe62c3"> <br><br>
 
 
+
+
