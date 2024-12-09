@@ -65,3 +65,23 @@ To run the Vending Machine system, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/vending-machine.git
+
+---
+
+## Here are  ScreenShoots Of The Project
+
+
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/78b0bad9-a25f-427b-b602-bae175d15a39"> <br><be>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/d7164e6b-d78f-49ed-9d07-e914793278ab"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/40ed17f9-a935-478c-9372-890d9b456fc0"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/a4d249f4-fac3-49a0-b565-11a3225b0eb1"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/e1d28842-0873-4653-9a7f-0a69068ed4c4"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6c5caa73-b9f9-4b12-8dc7-1e19eaf1da6e"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/265c5d05-5919-47ea-9ed0-c5b2b22d631f"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/346221ac-ba6b-4f79-a546-fe5f6ce65ce6"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/67949c85-8b5d-455f-9d3b-1ce4db30ffc5"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/943acf20-d837-40a9-b798-c198bc0da0da"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/f5394f99-96ec-4945-94af-52174728237a"> <br><be>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/8f69364c-6e40-4fc9-9dc8-508a96fe62c3"> <br><br>
+
+
