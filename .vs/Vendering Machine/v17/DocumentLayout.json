@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\Projects in C#\\Vendering Machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|g:\\projects\\projects in c#\\vendering machine\\vendering machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\ivendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\ivendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\cappuccino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\cappuccino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|G:\\Projects\\Projects in C#\\Vendering Machine\\vendering machine\\blackcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A76362-F6C9-4A8B-9B48-76EB07A875E5}|Vendering Machine\\Vendering Machine.csproj|solutionrelative:vendering machine\\blackcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Program.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\Program.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Program.cs",
+              "RelativeToolTip": "Vendering Machine\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Product.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\Product.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Product.cs",
+              "RelativeToolTip": "Vendering Machine\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Latte.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Latte.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\Latte.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Latte.cs",
+              "RelativeToolTip": "Vendering Machine\\Latte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cappuccino.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Cappuccino.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\Cappuccino.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Cappuccino.cs",
+              "RelativeToolTip": "Vendering Machine\\Cappuccino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlackCoffee.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\BlackCoffee.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\BlackCoffee.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\BlackCoffee.cs",
+              "RelativeToolTip": "Vendering Machine\\BlackCoffee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Tea.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\Tea.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\Tea.cs",
+              "RelativeToolTip": "Vendering Machine\\Tea.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVendingMachine.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\IVendingMachine.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\IVendingMachine.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\IVendingMachine.cs",
+              "RelativeToolTip": "Vendering Machine\\IVendingMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "Vendering Machine\\VendingMachine.cs",
+              "ToolTip": "G:\\Projects\\Projects in C#\\Vendering Machine\\Vendering Machine\\VendingMachine.cs",
+              "RelativeToolTip": "Vendering Machine\\VendingMachine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-11T13:24:07.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

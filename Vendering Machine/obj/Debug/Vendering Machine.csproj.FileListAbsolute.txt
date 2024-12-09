@@ -1,0 +1,16 @@
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.exe.config
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.exe
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.pdb
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.AssemblyReference.cache
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.SuggestedBindingRedirects.cache
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.CoreCompileInputs.cache
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.exe
+G:\Projects\Projects in C#\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.pdb
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.exe.config
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.exe
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\bin\Debug\Vendering Machine.pdb
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.AssemblyReference.cache
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.csproj.CoreCompileInputs.cache
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.exe
+C:\Users\husse\Desktop\Vendering Machine\Vendering Machine\obj\Debug\Vendering Machine.pdb
